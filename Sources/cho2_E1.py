@@ -3,6 +3,10 @@
 import  json
 import matplotlib.pyplot as plt
 
+"""
+将json数据转化，然后统计排序，输出图表
+
+"""
 startPath='F:/mystuff/GitHubRespository/pydata-book/'
 path =startPath+ 'ch02/usagov_bitly_data2012-03-16-1331923249.txt'
 
